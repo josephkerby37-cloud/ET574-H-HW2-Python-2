@@ -1,2 +1,3 @@
 ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 1,task,,open,create HW2 GitHub repository,,Joseph,9/20/2026, 9/11/2026,,
+2,task,94e116c,create GIT.py and print task A,Khalil,9/20/2026, 9/16,2026,,
